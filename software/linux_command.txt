@@ -1,0 +1,17 @@
+/etc/network/interfaces
+allow-hotplug eth0
+iface eth0 inet dhcp
+#iface eth0 inet static
+#   address 1.1.1.6
+#   netmask 255.255.255.0
+#   gateway 1.1.1.1
+hwaddress ether 00:AA:BB:CC:DD:EE
+注释的部分是静态IP的写法，当前的未注释的是动态IP的写法。
+
+# lscpu                  # 查看cpu的统计信息
+# cat /proc/cpuinfo      # 查看CPU信息
+# free -m                # 查看内存使用量和交换区使用量
+# cat /proc/meminfo      # 查看内存详细使用
+# df -h                  # 查看各分区使用情况
+# lsblk                  # 查看硬盘和分区分布
+# dmidecode -q           # 查看所有有用信息

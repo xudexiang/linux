@@ -4,3 +4,14 @@ https://www.miniand.com/forums/forums/development--3/topics/headless-ubuntu-llmp
 目前还没有找到可以提供视频（HDMI）输出的镜像
 16:31 2013/10/9
 
+SD卡启动
+http://linux-sunxi.org/Bootable_SD_card
+Ubuntu12.10安装
+https://www.miniand.com/forums/forums/development--3/topics/ubuntu-12-10-linux-sunxi-3-4-24-kernel-image-and-build-from-scratch
+http://linux-sunxi.org/FirstSteps#Setting_up_the_boot_partition
+启动分区的设置
+http://linux-sunxi.org/FirstSteps#Setting_up_the_boot_partition
+14:50 2013/10/12
+
+镜像SSH连接账号密码
+ubuntu:ubuntu
