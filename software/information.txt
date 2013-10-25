@@ -15,3 +15,6 @@ http://linux-sunxi.org/FirstSteps#Setting_up_the_boot_partition
 
 ¾µÏñSSHÁ¬½ÓÕËºÅÃÜÂë
 ubuntu:ubuntu
+
+Hackberry A10 - Linaro 12.06 (Desktop)
+http://jas-hacks.blogspot.com/2012/10/hackberry-a10-linaro-1206-desktop.html
